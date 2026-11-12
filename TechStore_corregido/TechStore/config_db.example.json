@@ -1,0 +1,10 @@
+{
+    "pg_host": "ep-example.us-east-2.aws.neon.tech",
+    "pg_port": 5432,
+    "pg_database": "techstore_db",
+    "pg_user": "postgres",
+    "pg_password": "TU_PASSWORD_AQUI",
+    "pg_sslmode": "require",
+    "auto_sync": true,
+    "timeout_segundos": 4
+}

@@ -1,0 +1,33 @@
+# Configuración sensible con credenciales de base de datos
+config_db.json
+.env
+
+# Base de datos SQLite local
+*.db
+*.db-journal
+
+# Archivos de Python compilados y temporales
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.env/
+
+# Empaquetado PyInstaller
+build/
+dist/
+*.spec
+
+# Documentos generados (comprobantes y reportes temporales)
+documentos_generados/
+comprobantes/
+*.xlsx
+*.pdf
+
+# Configuración de editores
+.vscode/
+.idea/
